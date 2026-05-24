@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+xgboost
+imbalanced-learn
+shap
+joblib
+dash
+dash-bootstrap-components
+plotly
+flask
+matplotlib
+seaborn
+scapy
